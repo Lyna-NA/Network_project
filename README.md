@@ -4,7 +4,7 @@ To Run The Server run :
 ```python server.py```
 
 To Run A Browser run : <br />
-```python browser.py```<br />
+```python browser.py```<br /><br />
 Or run :<br />
 ```python main.py```
                                                     
