@@ -1,11 +1,11 @@
 # Breif Guide:
 
 To Run The Browser run :  
-<br>#python main.py
+```python main.py```
                       
 
 To Run The Server run :  
- #python server.py
+```python server.py```
                       
                       
 
