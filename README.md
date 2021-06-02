@@ -1,11 +1,11 @@
-Breif Guide:
+# Breif Guide:
 
 To Run The Browser run :  
-                      python main.py
+<br>#python main.py
                       
 
 To Run The Server run :  
-                      python server.py
+ #python server.py
                       
                       
 
