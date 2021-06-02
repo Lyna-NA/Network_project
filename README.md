@@ -1,6 +1,5 @@
 # Breif Guide   
 
-<pre>
 To Run The Server run :  
     ```python server.py```
 
@@ -16,4 +15,3 @@ or run :<br />
     Amal Mahfouz,
     Enaam Rajab
 
-</pre>
