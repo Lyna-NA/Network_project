@@ -10,9 +10,9 @@ To Run The Server run :
                       
 
 # Network_project
-Lyna ElNaffar
-Shrooq Abuawaily
-Amal Mahfouz
+Lyna ElNaffar,
+Shrooq Abuawaily,
+Amal Mahfouz,
 Enaam Rajab
 
 
