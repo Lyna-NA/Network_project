@@ -3,9 +3,9 @@
 To Run The Server run :  
 ```python server.py```
 
-To Run A Browser run : __
-```python browser.py```__
-Or run :__
+To Run A Browser run : <br />
+```python browser.py```<br />
+Or run :<br />
 ```python main.py```
                                                     
 
