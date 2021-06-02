@@ -1,4 +1,4 @@
-# Breif Guide:
+# Breif Guide
 
 To Run The Browser run :  
 ```python main.py```
