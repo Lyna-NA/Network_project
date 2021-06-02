@@ -5,7 +5,7 @@ To Run The Server run :
 
 To Run A Browser run : 
 ```python browser.py```
-OR
+Or run :
 ```python main.py```
                                                     
 
